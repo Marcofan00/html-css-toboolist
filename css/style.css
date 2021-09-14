@@ -2,24 +2,29 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
+
+/* Intestazione */
 body{
     height: 100vh;
 }
 
-
-
 .intestazione{
     padding: 10px;
     height: 10vh;
-    
+}
+
+.intestazione img{
+    vertical-align: middle;
 }
 
 .titolo{
     font-size: 40px;
-    
+    line-height: 30px;
+    vertical-align: middle;
 }
-
+/* stile corpo principale */
 .principale{
     background-color: rgba(205, 221, 230, 0.644);
     height: 95vh;
@@ -68,6 +73,44 @@ body{
     border-radius: 50%;
     font-size: 15px;
     color: #01afab;
+    padding: 1px 3px;
 }
-    
-    
+
+.lista-2{
+    padding: 8px;
+}
+
+.button-b{
+    background-color: blue;
+    color: white;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+.viola{
+    background-color:violet;
+    color: white;
+    border: 5px solid violet;
+    border-radius: 10px;
+}
+
+.x{
+    border: 1px solid red;
+    border-radius: 50%;
+    font-size: 15px;
+    color: red;
+    padding: 1px 3px;
+}
+.green{
+    background-color: green;
+    color: white;
+    border: 5px solid green;
+    border-radius: 10px;
+}
+
+.orange{
+    background-color:orange;
+    color: white;
+    border: 5px solid orange;
+    border-radius: 10px;
+}
