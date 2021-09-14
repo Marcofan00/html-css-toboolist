@@ -45,6 +45,29 @@ body{
     border-radius: 0px 0px 5px 5px;   
 }
 
+.button {
+    padding: 6px 10px;
+    border: 1px;
+    border-radius: 5px;
+}
 
+.blue {
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+}
+
+.white {
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.spunta {
+    border: 1px solid #01afab;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #01afab;
+}
     
     
