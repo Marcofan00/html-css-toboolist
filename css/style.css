@@ -67,7 +67,7 @@ body{
     color: grey;
     border: 1px solid grey;
 }
-
+/* spunte */
 .spunta {
     border: 1px solid #01afab;
     border-radius: 50%;
@@ -76,11 +76,20 @@ body{
     padding: 1px 3px;
 }
 
+.x{
+    border: 1px solid red;
+    border-radius: 50%;
+    font-size: 15px;
+    color: red;
+    padding: 1px 3px;
+}
+/* /spunte */
+
 .lista-2{
     padding: 8px;
     margin-bottom: 5px;
 }
-
+/* Colori button */
 .button-b{
     background-color: rgb(44, 126, 235);
     color: white;
@@ -95,13 +104,6 @@ body{
     border-radius: 10px;
 }
 
-.x{
-    border: 1px solid red;
-    border-radius: 50%;
-    font-size: 15px;
-    color: red;
-    padding: 1px 3px;
-}
 .green{
     background-color: green;
     color: white;
@@ -115,7 +117,7 @@ body{
     border: 5px solid orange;
     border-radius: 10px;
 }
-
+/* /colori button */
 h3{
     margin-bottom: 10px;
 }
