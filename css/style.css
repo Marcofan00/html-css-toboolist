@@ -57,9 +57,9 @@ body{
 }
 
 .blue {
-    background-color: blue;
+    background-color: rgb(44, 126, 235);
     color: white;
-    border: 1px solid blue;
+    border: 1px solid rgb(44, 126, 235);
 }
 
 .white {
@@ -82,9 +82,9 @@ body{
 }
 
 .button-b{
-    background-color: blue;
+    background-color: rgb(44, 126, 235);
     color: white;
-    border: 5px solid blue;
+    border: 5px solid rgb(44, 126, 235);
     border-radius: 10px;
 }
 
