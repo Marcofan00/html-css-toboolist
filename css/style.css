@@ -78,6 +78,7 @@ body{
 
 .lista-2{
     padding: 8px;
+    margin-bottom: 5px;
 }
 
 .button-b{
@@ -113,4 +114,8 @@ body{
     color: white;
     border: 5px solid orange;
     border-radius: 10px;
+}
+
+h3{
+    margin-bottom: 15px;
 }
